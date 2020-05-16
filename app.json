@@ -1,0 +1,17 @@
+{
+  "name": "thinkbridge",
+  "displayName": "thinkbridge",
+  "expo": {
+    "name": "thinkbridge",
+    "slug": "thinkbridge",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
