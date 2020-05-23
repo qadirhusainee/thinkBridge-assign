@@ -15,16 +15,21 @@
 ``` git clone https://github.com/qadirhusainee/thinkBridge-assign.git```
 
 4. Go to root folder and install node modules
+
 ```cd thinkBridge-assign```
+
 ``` npm install```
 
 5. Install expo on device
 
 Android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN
+
 Ios: https://apps.apple.com/us/app/expo-client/id982107779
 
 6. From root folder start expo
+
 ``` expo start```
+
 On terminal QR code will appear. Scan this QR code from expo app. App will bundle and will start running
 
 
